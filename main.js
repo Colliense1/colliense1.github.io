@@ -66,7 +66,7 @@ require(['vue',
                 'my-sidebar': {
                     template: sidebar,
                     data: function () {
-                        return { myImageSrc: 'images/cpp' }
+                        return { myImageSrc: 'images/cpp.jpg' }
                     }
                 },
                 'my-about': {
@@ -78,8 +78,8 @@ require(['vue',
                             mySpeciality: 'Android Developer',
                             briefDescriptionSpeciality: 'Colliense Podder Prodip is a truly and dedicated Android development with Java Programming,has a basic knowledge of web application and networking.Currently graduated his B.Sc degree in Computer Science and Engineering at Daffodil International University.',
                             skills: [
-                                { skill: 'HTML5 & CSS3', percent: 100 },
-                                { skill: 'JavaScript', percent: 90 },
+                                { skill: 'Android Development', percent: 90 },
+                                { skill: 'Java', percent: 90 },
                                 { skill: 'Joomla', percent: 85 },
                                 { skill: 'Wordpress', percent: 95 },
                             ]
