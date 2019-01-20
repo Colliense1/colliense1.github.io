@@ -188,9 +188,9 @@ require(['vue',
                     template: footer,
                     data: function () {
                         return {
-                            copyright: '2016 Osahan',
-                            developer: 'Osahan Studio',
-                            social: 'https://www.facebook.com/iamgurdeeposahan'
+                            copyright: '2019 Colliense Podder Prodip',
+                            developer: 'colliense1',
+                            social: 'https://colliense1.github.io/'
                         }
                     }
                 },
