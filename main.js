@@ -66,15 +66,15 @@ require(['vue',
                 'my-sidebar': {
                     template: sidebar,
                     data: function () {
-                        return { myImageSrc: 'images/avatar.jpg' }
+                        return { myImageSrc: 'images/cpp.jpg' }
                     }
                 },
                 'my-about': {
                     template: about,
                     data: function () {
                         return {
-                            firstName: 'Johnny',
-                            lastName: 'Smith',
+                            firstName: 'Colliense Podder',
+                            lastName: 'Prodip',
                             mySpeciality: 'Designer and Front-end Developer',
                             briefDescriptionSpeciality: 'Ultricies nisi voluptatem, illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo nemo enim ipsam voluptatem. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque latu dantium, totam rem aperiam, eaque ipsa quae ab illo tempor dignissim at.',
                             skills: [
