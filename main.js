@@ -42,7 +42,7 @@ require(['vue',
                 'my-phone': {
                     template: phone,
                     data: function () {
-                        return { phone: '+880 1753740230' }
+                        return { phone: '+88 01753740230' }
                     }
                 },
                 'my-socials': {
