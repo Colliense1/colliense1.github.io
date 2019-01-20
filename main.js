@@ -66,7 +66,7 @@ require(['vue',
                 'my-sidebar': {
                     template: sidebar,
                     data: function () {
-                        return { myImageSrc: 'images/cpp.jpg' }
+                        return { myImageSrc: 'images/cpp' }
                     }
                 },
                 'my-about': {
