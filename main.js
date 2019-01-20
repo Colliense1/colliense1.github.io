@@ -129,10 +129,10 @@ require(['vue',
                     data: function () {
                         return {
                             resume: [
-                                { icon: 'fa-pencil', work_period: '2015 - Present', name: 'Academy of Art University', description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.' },
-                                { icon: 'fa-briefcase', work_period: '2014 - 2015', name: 'IT Technical Institute', description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.' },
-                                { icon: 'fa-paint-brush', work_period: '2013 - 2014', name: 'Web Design School', description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.' },
-                                { icon: 'fa-university', work_period: '2010 - 2013', name: 'Bachelor Degree', description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.' },
+                                { icon: 'fa-pencil', work_period: '2015 - 2019', name: 'Daffodil International University', description: 'Bachelors of Computer Science and Engineering' },
+                                { icon: 'fa-briefcase', work_period: '2012 - 2014', name: 'Galachipa Government College', description: '' },
+                                { icon: 'fa-paint-brush', work_period: '2007 - 2012', name: 'Galachipa Model Secondary School', description: '' },
+                                { icon: 'fa-university', work_period: '0ctober,2018 - january,2019', name: 'CodersTrust Bangladesh', description: '' },
                             ]
                         }
                     },
@@ -168,7 +168,7 @@ require(['vue',
                             address: 'Dhanmondi,Dhaka,Bangladesh',
                             phone: '+880 1753740230',
                             email: 'colliensepodder25@gmail.com',
-                            google_maps_url: 'https://www.google.com/maps/place/Bangladesh/@23.4420877,85.8465794,6z/data=!3m1!4b1!4m5!3m4!1s0x30adaaed80e18ba7:0xf2d28e0c4e1fc6b!8m2!3d23.684994!4d90.356331',
+                            google_maps_url: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d109552.19658281952!2d75.78663299928208!3d30.900473636616745!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391a837462345a7d%3A0x681102348ec60610!2sLudhiana%2C+Punjab+141001!5e0!3m2!1sen!2sin!4v1461389509410',
                             form: {
                                 name: '',
                                 email: '',
