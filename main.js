@@ -42,7 +42,7 @@ require(['vue',
                 'my-phone': {
                     template: phone,
                     data: function () {
-                        return { phone: '+1234567890' }
+                        return { phone: '+880 1753740230' }
                     }
                 },
                 'my-socials': {
@@ -80,7 +80,7 @@ require(['vue',
                             skills: [
                                 { skill: 'Android Development', percent: 90 },
                                 { skill: 'Java', percent: 90 },
-                                { skill: 'Joomla', percent: 85 },
+                                { skill: 'C (Programming language)', percent: 85 },
                                 { skill: 'Wordpress', percent: 95 },
                             ]
                         }
@@ -165,9 +165,9 @@ require(['vue',
                     template: contact,
                     data: function () {
                         return {
-                            address: '121 King St, Melbourne VIC 3000',
-                            phone: '+(987) 654 321 01',
-                            email: 'johnny.smith@domain.com',
+                            address: 'Dhanmondi,Dhaka,Bangladesh',
+                            phone: '+880 1753740230',
+                            email: 'colliensepodder25@gmail.com',
                             google_maps_url: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d109552.19658281952!2d75.78663299928208!3d30.900473636616745!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391a837462345a7d%3A0x681102348ec60610!2sLudhiana%2C+Punjab+141001!5e0!3m2!1sen!2sin!4v1461389509410',
                             form: {
                                 name: '',
