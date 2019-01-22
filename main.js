@@ -131,8 +131,8 @@ require(['vue',
                             resume: [
                                 { icon: 'fa-graduation-cap', work_period: '2015 - 2019', name: 'Bachelors of Computer Science and Engineering' , work_period: 'Daffodil International University', description: 'I complete my undergraduate program from Daffodil International University. It is a well-known Private University of Bangladesh. I have learned a lot of things from my University. As a computer science student have participated in different programming competition during the period of my study.' },
                                 { icon: 'fa-university', work_period: '2012 - 2014', name: 'Galachipa Government College', description: '' },
-                                { icon: 'fa-school', work_period: '2007 - 2012', name: 'Galachipa Model Secondary School', description: '' },
-                                { icon: '', work_period: '0ctober,2018 - january,2019', name: 'CodersTrust Bangladesh', description: '' },
+                                { icon: 'fas fa-school', work_period: '2007 - 2012', name: 'Galachipa Model Secondary School', description: '' },
+                                { icon: '', work_period: '0ctober,2018 - january,2019', name: 'CodersTrust Bangladesh', description: 'I complete the Android Development course from CodersTrust Bangladesh.' },
                             ]
                         }
                     },
