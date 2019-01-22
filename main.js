@@ -130,7 +130,7 @@ require(['vue',
                     data: function () {
                         return {
                             resume: [
-                                { icon: 'fa-graduation-cap', work_period: 'B.sc in CSE (2015 - 2019)' , name: 'Daffodil International University', description: 'I complete my undergraduate program from Daffodil International University. It is a well-known Private University of Bangladesh. I have learned a lot of things from my University. As a computer science student have participated in different programming competition during the period of my study.' },
+                                { icon: 'fa-graduation-cap', work_period: 'B.sc in CSE (January,2015 - December,2018)' , name: 'Daffodil International University', description: 'I complete my undergraduate program from Daffodil International University. It is a well-known Private University of Bangladesh. I have learned a lot of things from my University. As a computer science student have participated in different programming competition during the period of my study.' },
                                 { icon: 'fa-graduation-cap', work_period: '2012 - 2014', name: 'Galachipa Government College', description: 'I completed my Higher Secondary Certificate (H.S.C) degree from this prestigious institution. Galachipa Government College is a well-known institution of Barishal Board as well as in Bangladesh. I successfully completed all the subjects without any fallout.' },
                                 { icon: 'fa-graduation-cap', work_period: '2007 - 2012', name: 'Galachipa Model Secondary School', description: 'I completed my Secondary School Certificate (S.S.C) degree from this prestigious institution. Galachipa Model Secondary School is a famous school of Barishal Board as well as in Bangladesh. I participated many culteral programs like "Cultural Display" Program of 16th December,26th March every year. Patricipated in different music competitions, sports competition and so on.' },
                                 { icon: 'fa-graduation-cap', work_period: '0ctober,2018 - january,2019', name: 'CodersTrust Bangladesh', description: 'I complete the Android Development course from the prestigious institution of CodersTrust Bangladesh.' },
@@ -171,9 +171,14 @@ require(['vue',
                     data: function () {
                         return {
                             testimonials: [
-                                { image: 'images/client-1.jpg', name: 'Robert Green', position: 'Businessman', content: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.' },
-                                { image: 'images/client-2.jpg', name: 'Robert Green', position: 'Businessman', content: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.' },
-                                { image: 'images/client-3.jpg', name: 'Robert Green', position: 'Businessman', content: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.' },
+                                { image: 'fa-music', name: 'Music' },
+                                { image: 'fa-bed', name: 'Sleep'},
+                                { image: 'fa-code', name: 'Programming'},
+                                { image: 'fa-film', name: 'Movies'},
+                                { image: 'fa-microchip', name: 'Technology'},
+                                { image: 'fa-coffee', name: 'Coffee'},
+                                { image: 'fa-coffee', name: 'Chocolate'},
+
                             ]
                         }
                     },
