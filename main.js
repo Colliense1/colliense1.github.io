@@ -142,9 +142,9 @@ require(['vue',
                     data: function () {
                         return {
                             posts: [
-                                { image: 'images/blog-img-1.jpg', date: 'February 15, 2016', title: 'Blog Post with Image', text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.' },
-                                { image: 'images/blog-img-2.jpg', date: 'February 15, 2016', title: 'Standart Blog Post', text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.' },
-                                { image: 'images/blog-img-3.jpg', date: 'February 15, 2016', title: 'Blog Post with Image', text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.' },
+                                { image: 'images/cprog.jpg',  title: 'C Programming Language', text: 'This is the interesting programming Language' },
+                                { image: 'images/java.png',  title: 'Java', text: 'This is the most important language for object oriented Programming(OOP)' },
+                                
                             ]
                         }
                     },
