@@ -129,7 +129,7 @@ require(['vue',
                     data: function () {
                         return {
                             resume: [
-                                { icon: 'fa-pencil', work_period: '2015 - 2019', name: 'Daffodil International University', description: 'Bachelors of Computer Science and Engineering' },
+                                { icon: 'fa-graduation-cap', work_period: '2015 - 2019', name: 'Daffodil International University', description: 'Bachelors of Computer Science and Engineering' },
                                 { icon: 'fa-briefcase', work_period: '2012 - 2014', name: 'Galachipa Government College', description: '' },
                                 { icon: 'fa-paint-brush', work_period: '2007 - 2012', name: 'Galachipa Model Secondary School', description: '' },
                                 { icon: 'fa-university', work_period: '0ctober,2018 - january,2019', name: 'CodersTrust Bangladesh', description: '' },
