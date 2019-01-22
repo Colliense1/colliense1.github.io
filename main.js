@@ -145,8 +145,6 @@ require(['vue',
                                 {   title: 'C Programming Language'},
                                 {   title: 'Java'},
                                 {   title: 'NetBeans'},
-                                {   title: 'Domain Name System (DNS)'},
-                                {   title: 'Dynamic Host Configuration Protocol (DHCP'},
                                 {   title: 'VLAN'},
                                 {   title: 'Packet Tracer'},
                                 {   title: 'CodeBlocks'},
@@ -160,6 +158,8 @@ require(['vue',
                                 {   title: 'Eclipse'},
                                 {   title: 'HTML'},
                                 {   title: 'Cascading Style Sheets (CSS)'},
+                                {   title: 'Domain Name System (DNS)'},
+                                {   title: 'Dynamic Host Configuration Protocol (DHCP'},
                                 
                             ]
                         }
