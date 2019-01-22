@@ -171,7 +171,7 @@ require(['vue',
                     data: function () {
                         return {
                             testimonials: [
-                                { image: 'fa-music', name: 'Music' },
+                                { image: 'fa fa-music', name: 'Music' },
                                 { image: 'fa-bed', name: 'Sleep'},
                                 { image: 'fa-code', name: 'Programming'},
                                 { image: 'fa-film', name: 'Movies'},
