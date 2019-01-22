@@ -15,16 +15,15 @@ require(['vue',
     'text!templates/socials.html',
     'text!templates/sidebar.html',
     'text!templates/about.html',
-    'text!templates/resume.html',
     'text!templates/services.html',
     'text!templates/portfolio.html',
-    
+    'text!templates/resume.html',
     'text!templates/blog.html',
     'text!templates/testimonial.html',
     'text!templates/contact.html',
     'text!templates/footer.html',
 ],
-    function (Vue, preloader, phone, socials, sidebar, about,  resume, services, portfolio, blog, testimonial, contact, footer) {
+    function (Vue, preloader, phone, socials, sidebar, about, services, portfolio, resume, blog, testimonial, contact, footer) {
 
         var app = new Vue({
             el: '#app',
@@ -92,19 +91,6 @@ require(['vue',
                         }
                     }
                 },
-                'my-resume': {
-                    template: resume,
-                    data: function () {
-                        return {
-                            resume: [
-                                { icon: 'fa-graduation-cap', work_period: 'B.sc in CSE (2015 - 2019)' , name: 'Daffodil International University', description: 'I complete my undergraduate program from Daffodil International University. It is a well-known Private University of Bangladesh. I have learned a lot of things from my University. As a computer science student have participated in different programming competition during the period of my study.' },
-                                { icon: 'fa-graduation-cap', work_period: '2012 - 2014', name: 'Galachipa Government College', description: 'I completed my Higher Secondary Certificate (H.S.C) degree from this prestigious institution. Galachipa Government College is a well-known institution of Barishal Board as well as in Bangladesh. I successfully completed all the subjects without any fallout.' },
-                                { icon: 'fa-graduation-cap', work_period: '2007 - 2012', name: 'Galachipa Model Secondary School', description: 'I completed my Secondary School Certificate (S.S.C) degree from this prestigious institution. Galachipa Model Secondary School is a famous school of Barishal Board as well as in Bangladesh. I participated many culteral programs like "Cultural Display" Program of 16th December,26th March every year. Patricipated in different music competitions, sports competition and so on.' },
-                                { icon: 'fa-graduation-cap', work_period: '0ctober,2018 - january,2019', name: 'CodersTrust Bangladesh', description: 'I complete the Android Development course from the prestigious institution of CodersTrust Bangladesh.' },
-                            ]
-                        }
-                    },
-                },
                 'my-services': {
                     template: services,
                     data: function () {
@@ -138,7 +124,19 @@ require(['vue',
                         }
                     },
                 },
-                
+                'my-resume': {
+                    template: resume,
+                    data: function () {
+                        return {
+                            resume: [
+                                { icon: 'fa-graduation-cap', work_period: 'B.sc in CSE (2015 - 2019)' , name: 'Daffodil International University', description: 'I complete my undergraduate program from Daffodil International University. It is a well-known Private University of Bangladesh. I have learned a lot of things from my University. As a computer science student have participated in different programming competition during the period of my study.' },
+                                { icon: 'fa-graduation-cap', work_period: '2012 - 2014', name: 'Galachipa Government College', description: 'I completed my Higher Secondary Certificate (H.S.C) degree from this prestigious institution. Galachipa Government College is a well-known institution of Barishal Board as well as in Bangladesh. I successfully completed all the subjects without any fallout.' },
+                                { icon: 'fa-graduation-cap', work_period: '2007 - 2012', name: 'Galachipa Model Secondary School', description: 'I completed my Secondary School Certificate (S.S.C) degree from this prestigious institution. Galachipa Model Secondary School is a famous school of Barishal Board as well as in Bangladesh. I participated many culteral programs like "Cultural Display" Program of 16th December,26th March every year. Patricipated in different music competitions, sports competition and so on.' },
+                                { icon: 'fa-graduation-cap', work_period: '0ctober,2018 - january,2019', name: 'CodersTrust Bangladesh', description: 'I complete the Android Development course from the prestigious institution of CodersTrust Bangladesh.' },
+                            ]
+                        }
+                    },
+                },
                 'my-blog': {
                     template: blog,
                     data: function () {
