@@ -80,8 +80,9 @@ require(['vue',
                             skills: [
                                 { skill: 'Android Development', percent: 90 },
                                 { skill: 'Java', percent: 90 },
-                                { skill: 'C (Programming language)', percent: 85 },
-                                { skill: 'Wordpress', percent: 95 },
+                                { skill: 'Networking', percent: 75 },
+                                { skill: 'Web application', percent: 70 },
+                                
                             ]
                         }
                     },
