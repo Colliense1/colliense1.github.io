@@ -142,8 +142,24 @@ require(['vue',
                     data: function () {
                         return {
                             posts: [
-                                {   title: 'C Programming Language', text: 'This is the interesting programming Language' },
-                                {   title: 'Java', text: 'This is the most important language for object oriented Programming(OOP)' },
+                                {   title: 'C Programming Language'},
+                                {   title: 'Java'},
+                                {   title: 'NetBeans'},
+                                {   title: 'Domain Name System (DNS)'},
+                                {   title: 'Dynamic Host Configuration Protocol (DHCP'},
+                                {   title: 'VLAN'},
+                                {   title: 'Packet Tracer'},
+                                {   title: 'CodeBlocks'},
+                                {   title: 'Android SDK'},
+                                {   title: 'Android Studio'},
+                                {   title: 'Firebase'},
+                                {   title: 'SQLite'},
+                                {   title: 'Prolog'},
+                                {   title: 'Github'},
+                                {   title: 'Git'},
+                                {   title: 'Eclipse'},
+                                {   title: 'HTML'},
+                                {   title: 'Cascading Style Sheets (CSS)'},
                                 
                             ]
                         }
