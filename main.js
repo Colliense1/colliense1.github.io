@@ -171,13 +171,13 @@ require(['vue',
                     data: function () {
                         return {
                             testimonials: [
-                                { image: 'fa fa-music', name: 'Music' },
-                                { image: 'fa fa-bed', name: 'Sleep'},
-                                { image: 'fas fa-code', name: 'Programming'},
-                                { image: 'fa fa-film', name: 'Movies'},
-                                { image: 'fa fa-microchip', name: 'Technology'},
-                                { image: 'fa fa-coffee', name: 'Coffee'},
-                                { image: 'fa-coffee', name: 'Chocolate'},
+                                { icon: 'fa fa-music', name: 'Music' },
+                                { icon: 'fa fa-bed', name: 'Sleep'},
+                                { icon: 'fas fa-code', name: 'Programming'},
+                                { icon: 'fa fa-film', name: 'Movies'},
+                                { icon: 'fa fa-microchip', name: 'Technology'},
+                                { icon: 'fa fa-coffee', name: 'Coffee'},
+                                { icon: 'fa-coffee', name: 'Chocolate'},
 
                             ]
                         }
