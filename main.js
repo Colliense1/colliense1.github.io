@@ -142,8 +142,8 @@ require(['vue',
                     data: function () {
                         return {
                             posts: [
-                                { image: 'images/cprog.jpg',  title: 'C Programming Language', text: 'This is the interesting programming Language' },
-                                { image: 'images/java.png',  title: 'Java', text: 'This is the most important language for object oriented Programming(OOP)' },
+                                {   title: 'C Programming Language', text: 'This is the interesting programming Language' },
+                                {   title: 'Java', text: 'This is the most important language for object oriented Programming(OOP)' },
                                 
                             ]
                         }
