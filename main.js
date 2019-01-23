@@ -97,7 +97,7 @@ require(['vue',
                     data: function () {
                         return {
                             services: [
-                                { icon: 'fa-globe', name: 'Web Development', description: '' },
+                                { icon: 'fa-globe', name: 'Android Development', description: '' },
                                 { icon: 'fa-pencil', name: 'UX and UI Design', description: '' },
                                 ]
                         }
