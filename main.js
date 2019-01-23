@@ -107,7 +107,7 @@ require(['vue',
                     data: function () {
                         return {
                             portfolio: [
-                                { image: '',  description: '1.  Participate intra university chess competition.' },
+                                { image: '', title: 'Parents care', category_number: '1', category: 'Branding', description: '' },
                                 { image: '', title: 'Project Title', category_number: '2', category: 'Websites', description: '' },
                                 { image: '', title: 'Project Title', category_number: '1', category: 'Branding', description: '' },
                                 { image: '', title: 'Project Title', category_number: '2', category: 'Websites', description: '' },
