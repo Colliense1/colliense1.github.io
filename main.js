@@ -107,7 +107,7 @@ require(['vue',
                     data: function () {
                         return {
                             portfolio: [
-                                { image: '', title: 'Parents care', category_number: '1', category: 'Branding', description: '' },
+                                { image: '',  description: '1.  Participate intra university chess competition.' },
                                 { image: '', title: 'Project Title', category_number: '2', category: 'Websites', description: '' },
                                 { image: '', title: 'Project Title', category_number: '1', category: 'Branding', description: '' },
                                 { image: '', title: 'Project Title', category_number: '2', category: 'Websites', description: '' },
@@ -169,8 +169,8 @@ require(['vue',
                         return {
                             testimonials: [
                                 { icon: 'fa fa-music', name: 'Music', content:'I Love Music.Listening and Singing.' },
-                                { icon: 'fa fa-bed', name: 'Sleep'},
-                                { icon: 'fas fa-code', name: 'Programming'},
+                                { icon: 'fa fa-bed', name: 'Sleep',content:'I Love Sleepping is too much.'},
+                                { icon: 'fas fa-code', name: 'Programming' content:'Enjoy Programming'},
                                 { icon: 'fa fa-film', name: 'Movies'},
                                 { icon: 'fa fa-microchip', name: 'Technology'},
                                 { icon: 'fa fa-coffee', name: 'Coffee'},
