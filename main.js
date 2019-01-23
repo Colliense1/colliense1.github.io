@@ -97,11 +97,9 @@ require(['vue',
                     data: function () {
                         return {
                             services: [
-                                { icon: 'fa-globe', name: 'Web Development', description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.' },
-                                { icon: 'fa-pencil', name: 'UX and UI Design', description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.' },
-                                { icon: 'fa-users', name: 'Online Marketing', description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.' },
-                                { icon: 'fa-search-plus', name: 'SEO Optimization', description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.' },
-                            ]
+                                { icon: 'fa-globe', name: 'Web Development', description: '' },
+                                { icon: 'fa-pencil', name: 'UX and UI Design', description: '' },
+                                ]
                         }
                     },
                 },
@@ -110,12 +108,12 @@ require(['vue',
                     data: function () {
                         return {
                             portfolio: [
-                                { image: 'images/portfolio-1.jpg', title: 'Project Title', category_number: '1', category: 'Branding', description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla consequat massa quis enim.' },
-                                { image: 'images/portfolio-2.jpg', title: 'Project Title', category_number: '2', category: 'Websites', description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla consequat massa quis enim.' },
-                                { image: 'images/portfolio-3.jpg', title: 'Project Title', category_number: '1', category: 'Branding', description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.' },
-                                { image: 'images/portfolio-4.jpg', title: 'Project Title', category_number: '2', category: 'Websites', description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.' },
-                                { image: 'images/portfolio-5.jpg', title: 'Project Title', category_number: '2', category: 'Websites', description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.' },
-                                { image: 'images/portfolio-6.jpg', title: 'Project Title', category_number: '1', category: 'Branding', description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.' },
+                                { image: '', title: 'Parents care', category_number: '1', category: 'Branding', description: '' },
+                                { image: '', title: 'Project Title', category_number: '2', category: 'Websites', description: '' },
+                                { image: '', title: 'Project Title', category_number: '1', category: 'Branding', description: '' },
+                                { image: '', title: 'Project Title', category_number: '2', category: 'Websites', description: '' },
+                                { image: '', title: 'Project Title', category_number: '2', category: 'Websites', description: '' },
+                                { image: '', title: 'Project Title', category_number: '1', category: 'Branding', description: '' },
                             ],
                             filters: [
                                 { dataFilter: 'all', title: 'Show All' },
