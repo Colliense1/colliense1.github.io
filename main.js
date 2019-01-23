@@ -51,14 +51,13 @@ require(['vue',
                         return {
                             socials: [
                                 { social: 'fa-facebook' },
-                                { social: 'fa-twitter' },
-                                { social: 'fa-google-plus' },
+                                { social: 'fa-github' },
                                 { social: 'fa-linkedin' },
                                 { social: 'fa-instagram' },
+                                { social: 'fa-twitter' },
+                                { social: 'fa-google-plus' },
                                 { social: 'fa-skype' },
-                                { social: 'fa-dribbble' },
-                                { social: 'fa-behance' },
-                                { social: 'fa-pinterest' },
+                                
                             ]
                         }
                     }
