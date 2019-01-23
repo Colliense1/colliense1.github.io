@@ -12,7 +12,9 @@
                             
                             <div class="testimonial" v-for="testimonial in testimonials">
                                 <div class="testimonial_content">
-                                    <p>{{ testimonial.content }}</p>
+                                    <div class="testimonial_content_inner">
+                                        <p>{{ testimonial.content }}</p>
+                                    </div>
                                 </div>
                                 <div class="testimonial_author clearfix">
                                     <img alt="" :src="testimonial.image" class="testimonial_photo">
