@@ -168,7 +168,7 @@ require(['vue',
                     data: function () {
                         return {
                             testimonials: [
-                                { icon: 'fa fa-music', name: 'Music', content:'' },
+                                { icon: 'fa fa-music', name: 'Music', content:'I Love Music' },
                                 { icon: 'fa fa-bed', name: 'Sleep'},
                                 { icon: 'fas fa-code', name: 'Programming'},
                                 { icon: 'fa fa-film', name: 'Movies'},
