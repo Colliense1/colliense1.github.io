@@ -51,7 +51,7 @@ require(['vue',
                         return {
                             socials: [
                                 { social: 'fa-facebook' },
-                                { social: 'fab fa-github-square' },
+                                { social: 'fa-github' },
                                 { social: 'fa-linkedin' },
                                 { social: 'fa-instagram' },
                                 { social: 'fa-twitter' },
@@ -168,7 +168,7 @@ require(['vue',
                     data: function () {
                         return {
                             testimonials: [
-                                { icon: 'fa fa-music', name: 'Music' },
+                                { icon: 'fa fa-music', name: 'Music', content:'' },
                                 { icon: 'fa fa-bed', name: 'Sleep'},
                                 { icon: 'fas fa-code', name: 'Programming'},
                                 { icon: 'fa fa-film', name: 'Movies'},
