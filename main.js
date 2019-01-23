@@ -107,12 +107,12 @@ require(['vue',
                     data: function () {
                         return {
                             portfolio: [
-                                { image: '', title: 'Parents care', category_number: '1', category: 'Branding', description: '' },
-                                { image: '', title: 'Project Title', category_number: '2', category: 'Websites', description: '' },
-                                { image: '', title: 'Project Title', category_number: '1', category: 'Branding', description: '' },
-                                { image: '', title: 'Project Title', category_number: '2', category: 'Websites', description: '' },
-                                { image: '', title: 'Project Title', category_number: '2', category: 'Websites', description: '' },
-                                { image: '', title: 'Project Title', category_number: '1', category: 'Branding', description: '' },
+                                { image: 'images/portfolio-1.jpg', title: 'Project Title', category_number: '1', category: 'Branding', description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla consequat massa quis enim.' },
+                                { image: 'images/portfolio-2.jpg', title: 'Project Title', category_number: '2', category: 'Websites', description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla consequat massa quis enim.' },
+                                { image: 'images/portfolio-3.jpg', title: 'Project Title', category_number: '1', category: 'Branding', description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.' },
+                                { image: 'images/portfolio-4.jpg', title: 'Project Title', category_number: '2', category: 'Websites', description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.' },
+                                { image: 'images/portfolio-5.jpg', title: 'Project Title', category_number: '2', category: 'Websites', description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.' },
+                                { image: 'images/portfolio-6.jpg', title: 'Project Title', category_number: '1', category: 'Branding', description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.' },
                             ],
                             filters: [
                                 { dataFilter: 'all', title: 'Show All' },
