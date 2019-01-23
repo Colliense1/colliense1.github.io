@@ -51,7 +51,7 @@ require(['vue',
                         return {
                             socials: [
                                 { social: 'fa-facebook' },
-                                { social: 'fab fa-github' },
+                                { social: 'fab fa-github-square' },
                                 { social: 'fa-linkedin' },
                                 { social: 'fa-instagram' },
                                 { social: 'fa-twitter' },
