@@ -77,7 +77,6 @@ require(['vue',
                             lastName: 'Prodip',
                             mySpeciality: 'Android Developer',
                             briefDescriptionSpeciality: 'Colliense Podder Prodip is a truly and dedicated Android development with Java Programming,has a basic knowledge of web application and networking.Currently graduated his B.Sc degree in Computer Science and Engineering at Daffodil International University.',
-                            
                             skills: [
                                 { skill: 'Android Development', percent: 90 },
                                 { skill: 'Java', percent: 90 },
