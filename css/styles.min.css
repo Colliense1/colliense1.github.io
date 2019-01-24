@@ -700,7 +700,7 @@ textarea {
 	position: fixed;
 	right: 3px;
 	top: 13%;
-	z-index: 9;
+	z-index: 7;
 }
 .fixed-right-socials ul {
     list-style: outside none none;
