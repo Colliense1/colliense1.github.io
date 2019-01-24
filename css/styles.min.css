@@ -664,7 +664,7 @@ textarea {
 
 
 .top-br, .left-br, .bottom-br, .right-br {
-    background: #fff none repeat scroll 0 0;
+    background: #E5D8D8 none repeat scroll 0 0;
     position: fixed;
     z-index: 9;
 }
@@ -700,7 +700,7 @@ textarea {
 	position: fixed;
 	right: 3px;
 	top: 13%;
-	z-index: 7;
+	z-index: 9;
 }
 .fixed-right-socials ul {
     list-style: outside none none;
