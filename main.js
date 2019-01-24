@@ -129,10 +129,11 @@ require(['vue',
                     data: function () {
                         return {
                             resume: [
-                                { icon: 'fa-pencil', work_period: '2015 - Present', name: 'Academy of Art University', description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.' },
-                                { icon: 'fa-briefcase', work_period: '2014 - 2015', name: 'IT Technical Institute', description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.' },
-                                { icon: 'fa-paint-brush', work_period: '2013 - 2014', name: 'Web Design School', description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.' },
-                                { icon: 'fa-university', work_period: '2010 - 2013', name: 'Bachelor Degree', description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.' },
+                                { icon: 'fa-graduation-cap', work_period: 'B.sc in CSE (January,2015 - December,2018)' , name: 'Daffodil International University', description: 'I complete my undergraduate program from Daffodil International University. It is a well-known Private University of Bangladesh. I have learned a lot of things from my University. As a computer science student have participated in different programming competition during the period of my study.' },
+                                { icon: 'fa-graduation-cap', work_period: '2012 - 2014', name: 'Galachipa Government College', description: 'I completed my Higher Secondary Certificate (H.S.C) degree from this prestigious institution. Galachipa Government College is a well-known institution of Barishal Board as well as in Bangladesh. I successfully completed all the subjects without any fallout.' },
+                                { icon: 'fa-graduation-cap', work_period: '2007 - 2012', name: 'Galachipa Model Secondary School', description: 'I completed my Secondary School Certificate (S.S.C) degree from this prestigious institution. Galachipa Model Secondary School is a famous school of Barishal Board as well as in Bangladesh. I participated many culteral programs like "Cultural Display" Program of 16th December,26th March every year. Patricipated in different music competitions, sports competition and so on.' },
+                                { icon: 'fa-graduation-cap', work_period: '0ctober,2018 - january,2019', name: 'CodersTrust Bangladesh', description: 'I complete the Android Development course from the prestigious institution of CodersTrust Bangladesh.' },
+                            
                             ]
                         }
                     },
@@ -142,9 +143,24 @@ require(['vue',
                     data: function () {
                         return {
                             posts: [
-                                { image: 'images/blog-img-1.jpg', date: 'February 15, 2016', title: 'Blog Post with Image', text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.' },
-                                { image: 'images/blog-img-2.jpg', date: 'February 15, 2016', title: 'Standart Blog Post', text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.' },
-                                { image: 'images/blog-img-3.jpg', date: 'February 15, 2016', title: 'Blog Post with Image', text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.' },
+                                {   title: 'C Programming Language'},
+                                {   title: 'Java'},
+                                {   title: 'NetBeans'},
+                                {   title: 'VLAN'},
+                                {   title: 'Packet Tracer'},
+                                {   title: 'CodeBlocks'},
+                                {   title: 'Android SDK'},
+                                {   title: 'Android Studio'},
+                                {   title: 'Firebase'},
+                                {   title: 'SQLite'},
+                                {   title: 'Prolog'},
+                                {   title: 'Github'},
+                                {   title: 'Git'},
+                                {   title: 'Eclipse'},
+                                {   title: 'HTML'},
+                                {   title: 'Cascading Style Sheets (CSS)'},
+                                {   title: 'Domain Name System (DNS)'},
+                                {   title: 'Dynamic Host Configuration Protocol (DHCP'},
                             ]
                         }
                     },
@@ -165,7 +181,7 @@ require(['vue',
                     template: contact,
                     data: function () {
                         return {
-                            address: '121 King St, Melbourne VIC 3000',
+                            address: 'Dhanmondi,Dhaka,Bangladesh',
                             phone: '+880 1753740230',
                             email: 'colliensepodder25@gmail.com',
                             google_maps_url: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d109552.19658281952!2d75.78663299928208!3d30.900473636616745!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391a837462345a7d%3A0x681102348ec60610!2sLudhiana%2C+Punjab+141001!5e0!3m2!1sen!2sin!4v1461389509410',
@@ -188,9 +204,9 @@ require(['vue',
                     template: footer,
                     data: function () {
                         return {
-                            copyright: '2016 Osahan',
-                            developer: 'Osahan Studio',
-                            social: 'https://www.facebook.com/iamgurdeeposahan'
+                            copyright: '2019 Colliense Podder Prodip',
+                            developer: 'colliense1',
+                            social: 'https://colliense1.github.io/'
                         }
                     }
                 },
