@@ -42,7 +42,7 @@ require(['vue',
                 'my-phone': {
                     template: phone,
                     data: function () {
-                        return { phone: '+880 1753740230' }
+                        return { phone: '+8801753740230' }
                     }
                 },
                 'my-socials': {
@@ -76,12 +76,12 @@ require(['vue',
                             firstName: 'Colliense Podder',
                             lastName: 'Prodip',
                             mySpeciality: 'Android Developer',
-                            briefDescriptionSpeciality: 'Ultricies nisi voluptatem, illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo nemo enim ipsam voluptatem. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque latu dantium, totam rem aperiam, eaque ipsa quae ab illo tempor dignissim at.',
+                            briefDescriptionSpeciality: 'Colliense Podder Prodip is a truly and dedicated Android development with Java Programming,has a basic knowledge of web application and networking.Currently graduated his B.Sc degree in Computer Science and Engineering at Daffodil International University.',
                             skills: [
-                                { skill: 'HTML5 & CSS3', percent: 100 },
-                                { skill: 'JavaScript', percent: 90 },
-                                { skill: 'Joomla', percent: 85 },
-                                { skill: 'Wordpress', percent: 95 },
+                                { skill: 'Android Development', percent: 90 },
+                                { skill: 'Java', percent: 90 },
+                                { skill: 'Networking', percent: 75 },
+                                { skill: 'Web application', percent: 70 },
                             ]
                         }
                     },
@@ -188,9 +188,9 @@ require(['vue',
                     template: footer,
                     data: function () {
                         return {
-                            copyright: '2016 Osahan',
-                            developer: 'Osahan Studio',
-                            social: 'https://www.facebook.com/iamgurdeeposahan'
+                            copyright: '2019 Colliense Podder Prodip',
+                            developer: 'colliense1',
+                            social: 'https://colliense1.github.io/'
                         }
                     }
                 },
