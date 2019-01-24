@@ -664,7 +664,7 @@ textarea {
 
 
 .top-br, .left-br, .bottom-br, .right-br {
-    background: #846868 none repeat scroll 0 0;
+    background: #fff none repeat scroll 0 0;
     position: fixed;
     z-index: 9;
 }
