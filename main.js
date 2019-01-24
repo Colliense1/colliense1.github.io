@@ -187,7 +187,7 @@ require(['vue',
                             address: 'Dhanmondi,Dhaka,Bangladesh',
                             phone: '+880 1753740230',
                             email: 'colliensepodder25@gmail.com',
-                            google_maps_url: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d109552.19658281952!2d75.78663299928208!3d30.900473636616745!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391a837462345a7d%3A0x681102348ec60610!2sLudhiana%2C+Punjab+141001!5e0!3m2!1sen!2sin!4v1461389509410',
+                            google_maps_url: 'https://www.google.com/maps/place/Dhaka/@23.7805733,90.2792375,11z/data=!4m9!1m3!11m2!2sG7_Dvk1WvgAYUhnSX-JjZX_cW4ONxQ!3e1!3m4!1s0x3755b8b087026b81:0x8fa563bbdd5904c2!8m2!3d23.810332!4d90.4125181?hl=en-GB',
                             form: {
                                 name: '',
                                 email: '',
