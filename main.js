@@ -129,11 +129,10 @@ require(['vue',
                     data: function () {
                         return {
                             resume: [
-                                { icon: 'fa-graduation-cap', work_period: 'B.sc in CSE (January,2015 - December,2018)' , name: 'Daffodil International University', description: 'I complete my undergraduate program from Daffodil International University. It is a well-known Private University of Bangladesh. I have learned a lot of things from my University. As a computer science student have participated in different programming competition during the period of my study.' },
-                                { icon: 'fa-graduation-cap', work_period: '2012 - 2014', name: 'Galachipa Government College', description: 'I completed my Higher Secondary Certificate (H.S.C) degree from this prestigious institution. Galachipa Government College is a well-known institution of Barishal Board as well as in Bangladesh. I successfully completed all the subjects without any fallout.' },
-                                { icon: 'fa-graduation-cap', work_period: '2007 - 2012', name: 'Galachipa Model Secondary School', description: 'I completed my Secondary School Certificate (S.S.C) degree from this prestigious institution. Galachipa Model Secondary School is a famous school of Barishal Board as well as in Bangladesh. I participated many culteral programs like "Cultural Display" Program of 16th December,26th March every year. Patricipated in different music competitions, sports competition and so on.' },
-                                { icon: 'fa-graduation-cap', work_period: '0ctober,2018 - january,2019', name: 'CodersTrust Bangladesh', description: 'I complete the Android Development course from the prestigious institution of CodersTrust Bangladesh.' },
-                            
+                                { icon: 'fa-pencil', work_period: '2015 - Present', name: 'Academy of Art University', description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.' },
+                                { icon: 'fa-briefcase', work_period: '2014 - 2015', name: 'IT Technical Institute', description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.' },
+                                { icon: 'fa-paint-brush', work_period: '2013 - 2014', name: 'Web Design School', description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.' },
+                                { icon: 'fa-university', work_period: '2010 - 2013', name: 'Bachelor Degree', description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.' },
                             ]
                         }
                     },
@@ -143,24 +142,9 @@ require(['vue',
                     data: function () {
                         return {
                             posts: [
-                                {   title: 'C Programming Language'},
-                                {   title: 'Java'},
-                                {   title: 'NetBeans'},
-                                {   title: 'VLAN'},
-                                {   title: 'Packet Tracer'},
-                                {   title: 'CodeBlocks'},
-                                {   title: 'Android SDK'},
-                                {   title: 'Android Studio'},
-                                {   title: 'Firebase'},
-                                {   title: 'SQLite'},
-                                {   title: 'Prolog'},
-                                {   title: 'Github'},
-                                {   title: 'Git'},
-                                {   title: 'Eclipse'},
-                                {   title: 'HTML'},
-                                {   title: 'Cascading Style Sheets (CSS)'},
-                                {   title: 'Domain Name System (DNS)'},
-                                {   title: 'Dynamic Host Configuration Protocol (DHCP'},
+                                { image: 'images/blog-img-1.jpg', date: 'February 15, 2016', title: 'Blog Post with Image', text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.' },
+                                { image: 'images/blog-img-2.jpg', date: 'February 15, 2016', title: 'Standart Blog Post', text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.' },
+                                { image: 'images/blog-img-3.jpg', date: 'February 15, 2016', title: 'Blog Post with Image', text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.' },
                             ]
                         }
                     },
@@ -170,13 +154,9 @@ require(['vue',
                     data: function () {
                         return {
                             testimonials: [
-                                { image: 'fa fa-music', name: 'Music', content:'I Love Music.Listening and Singing.' },
-                                { image: 'fa fa-bed', name: 'Sleep',content:'I Love Sleepping is too much.'},
-                                { image: 'fas fa-code', name: 'Programming' content:'Enjoy Programming'},
-                                { image: 'fa fa-film', name: 'Movies'},
-                                { image: 'fa fa-microchip', name: 'Technology'},
-                                { image: 'fa fa-coffee', name: 'Coffee'},
-                                { image: 'fa-coffee', name: 'Chocolate'},
+                                { image: 'images/client-1.jpg', name: 'Robert Green', position: 'Businessman', content: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.' },
+                                { image: 'images/client-2.jpg', name: 'Robert Green', position: 'Businessman', content: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.' },
+                                { image: 'images/client-3.jpg', name: 'Robert Green', position: 'Businessman', content: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.' },
                             ]
                         }
                     },
