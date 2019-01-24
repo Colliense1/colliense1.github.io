@@ -170,9 +170,13 @@ require(['vue',
                     data: function () {
                         return {
                             testimonials: [
-                                { image: 'images/client-1.jpg', name: 'Robert Green', position: 'Businessman', content: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.' },
-                                { image: 'images/client-2.jpg', name: 'Robert Green', position: 'Businessman', content: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.' },
-                                { image: 'images/client-3.jpg', name: 'Robert Green', position: 'Businessman', content: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.' },
+                                { image: '', name: 'Music', position: '', content: 'I Love Music.Listening and Singing.' },
+                                { image: '', name: 'Sleep', position: '', content: 'I Love Sleepping is too much.' },
+                                { image: '', name: 'Programming', position: '', content: 'Enjoy Programming' },
+                                { image: '', name: 'Movies', position: '', content: 'Enjoy Programming' },
+                                { image: '', name: 'Technology', position: '', content: 'Enjoy Programming' },
+                                { image: '', name: 'Coffee', position: '', content: 'Enjoy Programming' },
+                                { image: '', name: 'Chocolate', position: '', content: 'Enjoy Programming' },
                             ]
                         }
                     },
