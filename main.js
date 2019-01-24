@@ -173,7 +173,7 @@ require(['vue',
                                 { image: '', name: 'Movies', position: '', content: 'Show Movies are my some buddies.' },
                                 { image: '', name: 'Technology', position: '', content: 'Always try to keep updated with new technology.' },
                                 { image: '', name: 'Sports', position: '', content: 'Playing with my buddies.' },
-                                { image: '', name: 'Coffee,Coke,Lassi', position: '', content: 'Both are my favourite drink' },
+                                { image: '', name: 'Coffee,Coke,Lassi', position: '', content: 'All are my favourite drink' },
                                 { image: '', name: 'Chocolate,Burger', position: '', content: 'Chocolate is my favourite & Burger also my favourite first food dishes.' },
                                 { image: '', name: 'Travelling', position: '', content: 'Sometimes go outside for travelling with my buddies or only.' },
                             ]
