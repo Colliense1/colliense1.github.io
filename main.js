@@ -42,7 +42,7 @@ require(['vue',
                 'my-phone': {
                     template: phone,
                     data: function () {
-                        return { phone: '+8801753740230' }
+                        return { phone: '+880 1753740230' }
                     }
                 },
                 'my-socials': {
@@ -76,12 +76,12 @@ require(['vue',
                             firstName: 'Colliense Podder',
                             lastName: 'Prodip',
                             mySpeciality: 'Android Developer',
-                            briefDescriptionSpeciality: 'Colliense Podder Prodip is a truly and dedicated Android development with Java Programming,has a basic knowledge of web application and networking.Currently graduated his B.Sc degree in Computer Science and Engineering at Daffodil International University.',
+                            briefDescriptionSpeciality: 'Ultricies nisi voluptatem, illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo nemo enim ipsam voluptatem. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque latu dantium, totam rem aperiam, eaque ipsa quae ab illo tempor dignissim at.',
                             skills: [
-                                { skill: 'Android Development', percent: 90 },
-                                { skill: 'Java', percent: 90 },
-                                { skill: 'Networking', percent: 75 },
-                                { skill: 'Web application', percent: 70 },
+                                { skill: 'HTML5 & CSS3', percent: 100 },
+                                { skill: 'JavaScript', percent: 90 },
+                                { skill: 'Joomla', percent: 85 },
+                                { skill: 'Wordpress', percent: 95 },
                             ]
                         }
                     },
@@ -165,7 +165,7 @@ require(['vue',
                     template: contact,
                     data: function () {
                         return {
-                            address: 'Dhanmondi,Dhaka,Bangladesh',
+                            address: '121 King St, Melbourne VIC 3000',
                             phone: '+880 1753740230',
                             email: 'colliensepodder25@gmail.com',
                             google_maps_url: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d109552.19658281952!2d75.78663299928208!3d30.900473636616745!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391a837462345a7d%3A0x681102348ec60610!2sLudhiana%2C+Punjab+141001!5e0!3m2!1sen!2sin!4v1461389509410',
@@ -188,9 +188,9 @@ require(['vue',
                     template: footer,
                     data: function () {
                         return {
-                            copyright: '2019 Colliense Podder Prodip',
-                            developer: 'colliense1',
-                            social: 'https://colliense1.github.io/'
+                            copyright: '2016 Osahan',
+                            developer: 'Osahan Studio',
+                            social: 'https://www.facebook.com/iamgurdeeposahan'
                         }
                     }
                 },
