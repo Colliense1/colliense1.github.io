@@ -51,14 +51,13 @@ require(['vue',
                         return {
                             socials: [
                                 { social: 'fa-facebook' },
-                                { social: 'fa-twitter' },
-                                { social: 'fa-google-plus' },
+                                { social: 'fa-github' },
                                 { social: 'fa-linkedin' },
                                 { social: 'fa-instagram' },
+                                { social: 'fa-twitter' },
+                                { social: 'fa-google-plus' },
                                 { social: 'fa-skype' },
-                                { social: 'fa-dribbble' },
-                                { social: 'fa-behance' },
-                                { social: 'fa-pinterest' },
+                                
                             ]
                         }
                     }
@@ -96,11 +95,9 @@ require(['vue',
                     data: function () {
                         return {
                             services: [
-                                { icon: 'fa-globe', name: 'Web Development', description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.' },
+                                { icon: 'fa-globe', name: 'Android Development', description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.' },
                                 { icon: 'fa-pencil', name: 'UX and UI Design', description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.' },
-                                { icon: 'fa-users', name: 'Online Marketing', description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.' },
-                                { icon: 'fa-search-plus', name: 'SEO Optimization', description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.' },
-                            ]
+                                ]
                         }
                     },
                 },
