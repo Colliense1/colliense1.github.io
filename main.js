@@ -95,8 +95,8 @@ require(['vue',
                     data: function () {
                         return {
                             services: [
-                                { icon: 'fa-android', name: 'Android Development', description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.' },
-                                { icon: 'fa-pencil', name: 'UX and UI Design', description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.' },
+                                { icon: 'fa-android', name: 'Android Development', description: '' },
+                                { icon: 'fa-pencil', name: 'UX and UI Design', description: '' },
                                 ]
                         }
                     },
@@ -106,15 +106,15 @@ require(['vue',
                     data: function () {
                         return {
                             portfolio: [
-                                { image: 'images/project1.png', title: 'Parents care', category_number: '1', category: 'Branding', description: 'PARENTS CARE is the Health care Application.This applications motto is "WE CARE FOR YOUR HEALTH".' },
-                                { image: 'images/project2.png', title: 'Memory Sharp', category_number: '2', category: 'Websites', description: 'MEMORY SHARP is the game application.' },
-                                { image: 'images/project3.png', title: 'BMR Calculator', category_number: '1', category: 'Branding', description: 'BASAL METABOLIC RATE(BMR) calculator is the estimates your basal metabolic rate.' },
+                                { image: 'images/project1.png', title: 'PARENTS CARE', category_number: '1', category: 'application', description: 'PARENTS CARE is the Health care Application.This applications motto is "WE CARE FOR YOUR HEALTH". The purpose to designing “Parent’s Care” application is to take care our parent when their children are far away from them.' },
+                                { image: 'images/project2.png', title: 'MEMORY SHARP', category_number: '2', category: 'GAME', description: 'MEMORY SHARP is the game application.' },
+                                { image: 'images/project3.png', title: 'BMR CALCULATOR', category_number: '1', category: 'application', description: 'BASAL METABOLIC RATE(BMR) calculator is the estimates your basal metabolic rate.' },
                                 
                             ],
                             filters: [
-                                { dataFilter: 'all', title: 'Show All' },
-                                { dataFilter: '.category-1', title: 'Branding' },
-                                { dataFilter: '.category-2', title: 'Websites' },
+                                { dataFilter: 'all', title: 'SHOW ALL' },
+                                { dataFilter: '.category-1', title: 'GAME' },
+                                { dataFilter: '.category-2', title: 'APPLICATION' },
                             ]
                         }
                     },
@@ -165,7 +165,7 @@ require(['vue',
                     data: function () {
                         return {
                             testimonials: [
-                                { image: '', name: 'Music', position: '', content: 'I Love Music.Listening and Singing.' },
+                                { image: 'fa-music.png', name: 'Music', position: '', content: 'I Love Music.Listening and Singing.' },
                                 { image: '', name: 'Sleep', position: '', content: 'I Love Sleepping is too much.' },
                                 { image: '', name: 'Programming', position: '', content: 'Enjoy Programming' },
                                 { image: '', name: 'Movies', position: '', content: 'Show Movies with my some buddies.' },
