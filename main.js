@@ -95,7 +95,7 @@ require(['vue',
                     data: function () {
                         return {
                             services: [
-                                { icon: 'fa-globe', name: 'Android Development', description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.' },
+                                { icon: 'fa-android', name: 'Android Development', description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.' },
                                 { icon: 'fa-pencil', name: 'UX and UI Design', description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.' },
                                 ]
                         }
@@ -170,7 +170,7 @@ require(['vue',
                                 { image: '', name: 'Music', position: '', content: 'I Love Music.Listening and Singing.' },
                                 { image: '', name: 'Sleep', position: '', content: 'I Love Sleepping is too much.' },
                                 { image: '', name: 'Programming', position: '', content: 'Enjoy Programming' },
-                                { image: '', name: 'Movies', position: '', content: 'Show Movies are my some buddies.' },
+                                { image: '', name: 'Movies', position: '', content: 'Show Movies with my some buddies.' },
                                 { image: '', name: 'Technology', position: '', content: 'Always try to keep updated with new technology.' },
                                 { image: '', name: 'Sports', position: '', content: 'Playing Cricket,Football,Batminton with my buddies.' },
                                 { image: '', name: 'Coffee,Coke,Lassi', position: '', content: 'All are my favourite drink' },
