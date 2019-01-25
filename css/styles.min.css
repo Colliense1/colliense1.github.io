@@ -490,9 +490,9 @@ button.mfp-close:hover {
 .testimonial .testimonial_photo {
     border-radius: 50%;
     float: left;
-    height: 70px;
+    height: 90px;
     margin: 0;
-    width: 70px;
+    width: 90px;
 }
 .testimonial .testimonial_content {
     background-color: rgb(255, 255, 255);
