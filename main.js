@@ -172,7 +172,7 @@ require(['vue',
                                 { image: '', name: 'Technology', position: '', content: 'Always try to keep updated with new technology.' },
                                 { image: '', name: 'Sports', position: '', content: 'Playing Cricket,Football,Batminton with my buddies.' },
                                 { image: '', name: 'Coffee,Coke,Lassi', position: '', content: 'All are my favourite drink' },
-                                { image: '', name: 'Chocolate,Burger', position: '', content: 'Chocolate is my favourite & Burger also my favourite fast food dishes.' },
+                                { image: '', name: 'Chocolate,Burger', position: '', content: 'Chocolate as like as KITKAT,CADBURY is my favourite.I like Chocolate is very much. & Burger also my favourite fast food dishes.' },
                                 { image: '', name: 'Travelling', position: '', content: 'Sometimes go outside for travelling with my buddies or only.' },
                             ]
                         }
