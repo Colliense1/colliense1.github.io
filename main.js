@@ -165,7 +165,7 @@ require(['vue',
                     data: function () {
                         return {
                             testimonials: [
-                                { image: 'music.jpeg', name: 'Music', position: '', content: 'I Love Music.Listening and Singing.' },
+                                { image: 'music.png', name: 'Music', position: '', content: 'I Love Music.Listening and Singing.' },
                                 { image: '', name: 'Sleep', position: '', content: 'I Love Sleepping is too much.' },
                                 { image: '', name: 'Programming', position: '', content: 'Enjoy Programming' },
                                 { image: '', name: 'Movies', position: '', content: 'Show Movies with my some buddies.' },
