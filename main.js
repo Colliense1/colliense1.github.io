@@ -106,12 +106,10 @@ require(['vue',
                     data: function () {
                         return {
                             portfolio: [
-                                { image: 'images/portfolio-1.jpg', title: 'Project Title', category_number: '1', category: 'Branding', description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla consequat massa quis enim.' },
-                                { image: 'images/portfolio-2.jpg', title: 'Project Title', category_number: '2', category: 'Websites', description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla consequat massa quis enim.' },
-                                { image: 'images/portfolio-3.jpg', title: 'Project Title', category_number: '1', category: 'Branding', description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.' },
-                                { image: 'images/portfolio-4.jpg', title: 'Project Title', category_number: '2', category: 'Websites', description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.' },
-                                { image: 'images/portfolio-5.jpg', title: 'Project Title', category_number: '2', category: 'Websites', description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.' },
-                                { image: 'images/portfolio-6.jpg', title: 'Project Title', category_number: '1', category: 'Branding', description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.' },
+                                { image: 'images/project1.png', title: 'Parents care', category_number: '1', category: 'Branding', description: 'PARENTS CARE is the Health care Application.This applications motto is "WE CARE FOR YOUR HEALTH".' },
+                                { image: 'images/project2.png', title: 'Memory Sharp', category_number: '2', category: 'Websites', description: 'MEMORY SHARP is the game application.' },
+                                { image: 'images/project3.png', title: 'BMR Calculator', category_number: '1', category: 'Branding', description: 'BASAL METABOLIC RATE(BMR) calculator is the estimates your basal metabolic rate.' },
+                                
                             ],
                             filters: [
                                 { dataFilter: 'all', title: 'Show All' },
