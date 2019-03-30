@@ -74,7 +74,7 @@ require(['vue',
                         return {
                             firstName: 'Colliense Podder',
                             lastName: 'Prodip',
-                            mySpeciality: 'Software Engineer (Android Developper)',
+                            mySpeciality: 'Software Engineer (Android Developer)',
                             briefDescriptionSpeciality: 'Colliense Podder Prodip is a truly and dedicated Android development with Java Programming,has a basic knowledge of web application and networking.Currently graduated his B.Sc degree in Computer Science and Engineering at Daffodil International University.',
                             skills: [
                                 { skill: 'Android Development', percent: 90 },
@@ -115,6 +115,7 @@ require(['vue',
                                 { dataFilter: 'all', title: 'SHOW ALL' },
                                 { dataFilter: '.category-1', title: 'GAME' },
                                 { dataFilter: '.category-2', title: 'APPLICATION' },
+                                { dataFilter: '.category-3', title: 'UI & UX Design' },
                             ]
                         }
                     },
