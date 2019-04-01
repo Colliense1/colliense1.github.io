@@ -109,7 +109,8 @@ require(['vue',
                                 { image: 'images/project1.png', title: 'PARENTS CARE', category_number: '2', category: 'application', description: 'PARENTS CARE is the Health care Application.This applications motto is "WE CARE FOR YOUR HEALTH". The purpose to designing “Parent’s Care” application is to take care our parent when their children are far away from them.' },
                                 { image: 'images/project2.png', title: 'MEMORY SHARP', category_number: '1', category: 'GAME', description: 'MEMORY SHARP is the game application.' },
                                 { image: 'images/project3.png', title: 'BMR CALCULATOR', category_number: '2', category: 'application', description: 'BASAL METABOLIC RATE(BMR) calculator is the estimates your basal metabolic rate.' },
-                                { image: 'images/login.png', title: 'Login Activity', category_number: '3', category: 'UI & UX Design', description: 'This is the amaging Login UI Design.' },
+                                { image: 'images/login.png', title: 'Signin Activity', category_number: '3', category: 'UI & UX Design', description: 'This is the amaging Signin UI Design.' },
+                                { image: 'images/lo.png', title: 'Login Activity', category_number: '3', category: 'UI & UX Design', description: 'This is the amaging Login UI Design.' },
                                 
                             ],
                             filters: [
