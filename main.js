@@ -110,6 +110,7 @@ require(['vue',
                                 { image: 'images/project2.png', title: 'MEMORY SHARP', category_number: '1', category: 'GAME', description: 'MEMORY SHARP is the game application.' },
                                 { image: 'images/project3.png', title: 'BMR CALCULATOR', category_number: '2', category: 'application', description: 'BASAL METABOLIC RATE(BMR) calculator is the estimates your basal metabolic rate.' },
                                 { image: 'images/bmi.png', title: 'BMI CALCULATOR', category_number: '2', category: 'application', description: 'BODY MASS INDEX(BMI) calculator is the estimates your Body Mass Index.' },
+                                { image: 'images/project5.png', title: 'LOST & FOUND', category_number: '2', category: 'application', description: 'Lost & Found application includes Admin & User panel.If anything is lost on the university as an equivalent, then it can be found by posting.' },
                                 { image: 'images/log.png', title: 'Signin Activity', category_number: '3', category: 'UI & UX Design', description: 'This is the amaging Signin UI Design.' },
                                 { image: 'images/lo.png', title: 'Login Activity', category_number: '3', category: 'UI & UX Design', description: 'This is the amaging Login UI Design.' },
                                 
